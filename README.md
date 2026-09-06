@@ -5,6 +5,8 @@
 * **Email:** alibey2444666668888888@gmail.com
 * **LinkedIn:** [linkedin.com/in/ali-alpağut-b1b61338a](https://www.linkedin.com/in/ali-alpa%C4%9Fut-b1b61338a)
 * **GitHub:** [github.com/KawaXan](https://github.com/KawaXan)
+* **Interactive Presentation:** [Google Slides Portfolio](https://docs.google.com/presentation/d/1hvy4dfamqxjQmOWTdAfFA3DPd3wsG8unYZuLJ6VqoEc/edit?usp=drivesdk)
+* **Project Media & Video Assets:** [Google Drive Folder](https://drive.google.com/drive/folders/1-4uVScBEcIi5VBcK8YaOs4zwXum44WFC)
 
 ---
 
@@ -28,7 +30,8 @@ Driven **Unity Game Developer** with hands-on experience in building advanced ga
 ## **FEATURED PROJECTS**
 
 ### **1. Dynamic Maritime Environment & Weather System**
-![Maritime Weather System Preview](https://via.placeholder.com/800x400?text=Maritime+Weather+System+GIF+or+Image)
+> 🎬 **[Watch Project Demo & Video Recordings (Google Drive)](https://drive.google.com/drive/folders/1-4uVScBEcIi5VBcK8YaOs4zwXum44WFC)**  
+> 📊 **[View Presentation Deck (Google Slides)](https://docs.google.com/presentation/d/1hvy4dfamqxjQmOWTdAfFA3DPd3wsG8unYZuLJ6VqoEc/edit?usp=drivesdk)**
 
 * **Technologies:** Unity, C#, URP, Lighting, Particle Systems
 * **Dynamic Weather Management:** Designed a robust `WeatherManager` architecture enabling real-time state transitions (Clear, Rainy, Foggy, Stormy).
@@ -38,7 +41,8 @@ Driven **Unity Game Developer** with hands-on experience in building advanced ga
 ---
 
 ### **2. Interactive First-Person / Technical Exploration Game**
-![Interactive Exploration Preview](https://via.placeholder.com/800x400?text=Gameplay+Interaction+GIF+or+Image)
+> 🎬 **[Watch Gameplay Interactions & Video Demos (Google Drive)](https://drive.google.com/drive/folders/1-4uVScBEcIi5VBcK8YaOs4zwXum44WFC)**  
+> 📊 **[View Presentation Deck (Google Slides)](https://docs.google.com/presentation/d/1hvy4dfamqxjQmOWTdAfFA3DPd3wsG8unYZuLJ6VqoEc/edit?usp=drivesdk)**
 
 * **Technologies:** Unity, C#, TextMeshPro, Canvas UI
 * **Quest & UI Architecture:** Developed a dynamic `ObjectiveManager` tied to canvas UI elements for rendering contextual objective texts.
@@ -48,7 +52,8 @@ Driven **Unity Game Developer** with hands-on experience in building advanced ga
 ---
 
 ### **3. 3D Asset Pipeline & Blender Workflows**
-![3D Asset Pipeline Preview](https://via.placeholder.com/800x400?text=3D+Asset+Render+or+Blender+Model)
+> 🎬 **[View 3D Renders & Assets (Google Drive)](https://drive.google.com/drive/folders/1-4uVScBEcIi5VBcK8YaOs4zwXum44WFC)**  
+> 📊 **[View Presentation Deck (Google Slides)](https://docs.google.com/presentation/d/1hvy4dfamqxjQmOWTdAfFA3DPd3wsG8unYZuLJ6VqoEc/edit?usp=drivesdk)**
 
 * **Technologies:** Blender, Unity, UV Mapping, PBR Texturing
 * **Asset Integration:** Streamlined the export/import pipeline for custom 3D models (maritime structures, steel frameworks, decorative props) from Blender to Unity with UV maps and material channels intact.
